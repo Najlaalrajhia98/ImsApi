@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.thedynamicdoers.IMS"},{"l":"com.thedynamicdoers.IMS.controller"},{"l":"com.thedynamicdoers.IMS.model"},{"l":"com.thedynamicdoers.IMS.service"}];updateSearchResults();
