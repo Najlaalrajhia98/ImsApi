@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.thedynamicdoers.IMS","l":"ImsApplication"},{"p":"com.thedynamicdoers.IMS.model","l":"Student"},{"p":"com.thedynamicdoers.IMS.controller","l":"StudentController"},{"p":"com.thedynamicdoers.IMS.service","l":"StudentService"}];updateSearchResults();
